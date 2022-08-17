@@ -9,12 +9,12 @@ This project works on three cases of Churn/Attrition Predictions:
 
    1. Bank Churn Prediction
   
-     Kaggle Dataset Link:  https://www.kaggle.com/kmalit/bank-customer-churn-prediction/data
+      Kaggle Dataset Link:  https://www.kaggle.com/kmalit/bank-customer-churn-prediction/data
      
-     Objective:
-     Build a prediction model that will perform the following:
+      Objective:
+      Build a prediction model that will perform the following:
      
-     Classify if a customer is going to churn or not Preferably and based on model performance, choose a model that will attach a probability to the churn to make it        easier for customer service to target low hanging fruits in their efforts to prevent churn.
+      Classify if a customer is going to churn or not Preferably and based on model performance, choose a model that will attach a probability to the churn to make it       easier for customer service to target low hanging fruits in their efforts to prevent churn.
  
   2. Employee Attrition Predictions
   
