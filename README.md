@@ -5,7 +5,7 @@ This is an academic project as part of Semester 1 of MSc in Data Analytics at Na
 What is Churn Prediction?
 Churn prediction means detecting which customers are likely to leave a service or to cancel a subscription to a service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones.
 
-This project works on three cases of Churn/Attrition Predictions:
+This project works on each cases of Churn/Attrition/Fraud Predictions:
 
    1. Bank Churn Prediction
   
