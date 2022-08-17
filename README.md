@@ -7,7 +7,7 @@ Churn prediction means detecting which customers are likely to leave a service o
 
 This project works on three cases of Churn/Attrition Predictions:
 
-	1. Bank Churn Prediction
+     1. Bank Churn Prediction
   
      Kaggle Dataset Link:  https://www.kaggle.com/kmalit/bank-customer-churn-prediction/data
      
@@ -15,8 +15,8 @@ This project works on three cases of Churn/Attrition Predictions:
      Build a prediction model that will perform the following:
      
      Classify if a customer is going to churn or not Preferably and based on model performance, choose a model that will attach a probability to the churn to make it        easier for customer service to target low hanging fruits in their efforts to prevent churn.
-
-	2. Employee Attrition Predictions
+ 
+     2. Employee Attrition Predictions
   
      Kaggle Dataset Link:  https://www.kaggle.com/datasets/rushikeshghate/capstone-projectibm-employee-attrition-prediction
      
@@ -24,7 +24,7 @@ This project works on three cases of Churn/Attrition Predictions:
      
      Our role is to uncover the factors that lead to employee attrition through Exploratory Data Analysis, and explore them by using various classification models to        predict if an employee is likely to quit. This could greatly increase the HR’s ability to intervene on time and remedy the situation to prevent attrition.
 	
-  3. Telecom Fraud Detection and Churn Behaviour Modelling
+     3. Telecom Fraud Detection and Churn Behaviour Modelling
   
      Kaggle Dataset Link:  https://www.kaggle.com/code/bayunova/telco-churn-prediction/data
 
